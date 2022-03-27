@@ -1,0 +1,81 @@
+.buy-now-button{
+    background-color: black;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.image{
+    background-image: url("image/bg-1.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.carousel{
+    background-image: url(image/bg-2.png);
+    background-repeat: no-repeat;
+    background-position: left bottom;
+
+}
+.container{
+    margin-bottom: 50px;
+}
+.leptop{
+    margin-top: 80px;
+}
+.card{
+    border: none;
+    text-align: center;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+.row {
+    border-radius: 10px;
+}
+.fjannat{
+    text-align: end;
+    color: rgb(255, 157, 0);
+}
+.navbar{
+    border-radius: 10px;
+}
+.card{
+    border-radius: 10px;
+}
+.last{
+    text-align: center;
+    margin-top: 100px;
+}
+.last h1{
+    margin-bottom: 100px;
+}
+.enamul{
+    box-shadow: 10px 10px 10px 10px lightgray;
+    padding: 50px 50px;
+    border-radius: 20px;
+}
+.enamul h4{
+    margin-top: 50px;
+}
+.fahim{
+    box-shadow: 10px 10px 10px 10px lightgray;
+    padding: 60px 80px;
+    border-radius: 20px;
+    text-align: center;
+}
+.fahim h4{
+    margin-top: 20px;
+    text-align: center;
+}
+.babu{
+    box-shadow: 10px 10px 10px 10px lightgray;
+    padding: 60px 80px;
+    margin-top: 50px;
+    border-radius: 20px;
+}
+.amar-koliza{
+    background-color: #ffd9d5;
+    padding: 50px 20px;
+    border-radius: 20px;
+}
+footer p{
+    text-align: center;
+}
